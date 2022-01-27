@@ -1,0 +1,104 @@
+﻿  ImGuiFlodingMenu.cpp
+D:\Sources\C++\ImGuiFlodingMenu\ImGuiFlodingMenu.cpp(91,10): warning C4189: “show_another_window”: 局部变量已初始化但不引用
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+D:\Sources\C++\ImGuiFlodingMenu\imgui\imgui_widgets.cpp(7743,32): warning C4305: “参数”: 从“double”到“float”截断
+D:\Sources\C++\ImGuiFlodingMenu\imgui\imgui_widgets.cpp(7713,1): error C2704: “ImGui::FunctionItem”: __va_start 内部函数只能在 varargs 中
+D:\Sources\C++\ImGuiFlodingMenu\imgui\imgui_widgets.cpp(7802,32): warning C4305: “参数”: 从“double”到“float”截断
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  MenuManager.cpp
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(43,1): error C2440: “=”: 无法从“const char [6]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(43,30): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(44,1): error C2440: “=”: 无法从“const char [6]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(44,30): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(64,1): warning C4305: “参数”: 从“double”到“float”截断
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(67,1): error C4496: 使用了非标准扩展“for each”: 替换为 ranged-for 语句
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(75,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(90,39): error C2440: “=”: 无法从“const char [9]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(90,27): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(91,39): error C2440: “=”: 无法从“const char [9]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(91,27): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(93,45): error C2664: “MainItem::MainItem(MainItem &&)”: 无法将参数 1 从“const char [15]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(93,26): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(41,5): message : 参见“MainItem::MainItem”的声明
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(94,48): error C2664: “MainItem::MainItem(MainItem &&)”: 无法将参数 1 从“const char [15]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(94,29): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(41,5): message : 参见“MainItem::MainItem”的声明
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(97,65): error C2664: “Item::Item(Item &&)”: 无法将参数 1 从“const char [13]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(97,27): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(13,5): message : 参见“Item::Item”的声明
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(98,65): error C2664: “Item::Item(Item &&)”: 无法将参数 1 从“const char [13]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(98,27): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(13,5): message : 参见“Item::Item”的声明
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(99,65): error C2664: “Item::Item(Item &&)”: 无法将参数 1 从“const char [13]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(99,27): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(13,5): message : 参见“Item::Item”的声明
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(102,41): error C2440: “=”: 无法从“const char [9]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(102,29): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(103,41): error C2440: “=”: 无法从“const char [9]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(103,29): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(104,41): error C2440: “=”: 无法从“const char [9]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(104,29): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(105,39): error C2440: “=”: 无法从“const char [7]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(105,29): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(106,67): error C2664: “Item::Item(Item &&)”: 无法将参数 1 从“const char [13]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(106,27): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(13,5): message : 参见“Item::Item”的声明
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(109,40): error C2440: “=”: 无法从“const char [9]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(109,28): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(110,38): error C2440: “=”: 无法从“const char [7]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(110,28): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(111,38): error C2440: “=”: 无法从“const char [7]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(111,28): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(112,38): error C2440: “=”: 无法从“const char [7]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(112,28): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(113,38): error C2440: “=”: 无法从“const char [7]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(113,28): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(114,38): error C2440: “=”: 无法从“const char [7]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(114,28): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(115,38): error C2440: “=”: 无法从“const char [7]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(115,28): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(116,65): error C2664: “Item::Item(Item &&)”: 无法将参数 1 从“const char [13]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(116,26): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(13,5): message : 参见“Item::Item”的声明
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(120,40): error C2440: “=”: 无法从“const char [9]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(120,28): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(121,40): error C2440: “=”: 无法从“const char [9]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(121,28): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(122,40): error C2440: “=”: 无法从“const char [9]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(122,28): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(123,40): error C2440: “=”: 无法从“const char [9]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(123,28): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(124,65): error C2664: “Item::Item(Item &&)”: 无法将参数 1 从“const char [13]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(124,26): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(13,5): message : 参见“Item::Item”的声明
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(138,38): error C2440: “=”: 无法从“const char [9]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(138,26): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(139,36): error C2440: “=”: 无法从“const char [7]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(139,26): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(140,36): error C2440: “=”: 无法从“const char [7]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(140,26): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(142,58): error C2664: “Item::Item(Item &&)”: 无法将参数 1 从“const char [13]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(142,21): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(13,5): message : 参见“Item::Item”的声明
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(144,62): error C2664: “Item::Item(Item &&)”: 无法将参数 1 从“const char [13]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(144,24): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(13,5): message : 参见“Item::Item”的声明
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(145,67): error C2664: “Item::Item(Item &&)”: 无法将参数 1 从“const char [13]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(145,29): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(13,5): message : 参见“Item::Item”的声明
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(146,66): error C2664: “Item::Item(Item &&)”: 无法将参数 1 从“const char [13]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(146,28): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(13,5): message : 参见“Item::Item”的声明
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(147,60): error C2664: “Item::Item(Item &&)”: 无法将参数 1 从“const char [13]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(147,22): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(13,5): message : 参见“Item::Item”的声明
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(148,64): error C2664: “Item::Item(Item &&)”: 无法将参数 1 从“const char [13]”转换为“char *”
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(148,26): message : 从字符串文本转换将丢失 const 限定符(请参阅 /Zc:strictStrings)
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(13,5): message : 参见“Item::Item”的声明
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(175,105): warning C4305: “参数”: 从“double”到“float”截断
+D:\Sources\C++\ImGuiFlodingMenu\MenuManager.cpp(210,110): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...

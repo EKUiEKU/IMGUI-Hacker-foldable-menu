@@ -1,0 +1,3 @@
+D:\Sources\C++\FlodingMenu\Release\ImGuiFlodingMenu.vcxproj.CopyComplete
+D:\Sources\C++\FlodingMenu\Release\ImGuiFlodingMenu.exe
+D:\Sources\C++\FlodingMenu\Release\jsoncpp.dll

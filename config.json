@@ -1,0 +1,98 @@
+{
+	"title": "IMGUI分级菜单DEMO",
+	"items": [
+		{
+			"title": "透视设置",
+			"resultCode": 100,
+			"secondItems": [
+				{
+					"title": "方框透视",
+					"resultCode": 101,
+					"status": []
+				},
+				{
+					"title": "方框类型",
+					"resultCode": 102,
+					"status": [
+						"2D",
+						"3D"
+					]
+				},
+				{
+					"title": "显示血量",
+					"resultCode": 103,
+					"status": []
+				}
+			]
+		},
+		{
+			"title": "自瞄设置",
+			"resultCode": 200,
+			"secondItems": [
+				{
+					"title": "自动瞄准",
+					"resultCode": 201,
+					"status": []
+				},
+				{
+					"title": "自瞄灵敏",
+					"resultCode": 202,
+					"status": [
+						"0.05",
+						"0.10",
+						"0.15",
+						"0.20",
+						"0.25",
+						"0.30",
+						"0.35",
+						"0.40",
+						"0.45",
+						"0.50",
+						"0.55",
+						"0.60",
+						"0.65",
+						"0.70",
+						"0.75",
+						"0.80",
+						"0.85",
+						"0.90",
+						"0.95",
+						"1.00"
+					]
+				},
+				{
+					"title": "自瞄范围",
+					"resultCode": 205,
+					"status": [
+						"60",
+						"120",
+						"180",
+						"240",
+						"300",
+						"360"
+					]
+				},
+				{
+					"title": "自瞄位置",
+					"resultCode": 206,
+					"status": [
+						"头部",
+						"胸部",
+						"裆部"
+					]
+				}
+			]
+		},
+		{
+			"title": "其他设置",
+			"resultCode": 0,
+			"secondItems": [
+				{
+					"title": "安全退出",
+					"resultCode": 1,
+					"status": []
+				}
+			]
+		}
+	]
+}

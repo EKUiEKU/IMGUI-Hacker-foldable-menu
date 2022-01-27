@@ -1,0 +1,18 @@
+﻿  ImGuiFlodingMenu.cpp
+D:\Sources\C++\FlodingMenu\ImGuiFlodingMenu.cpp(93,10): warning C4189: “show_demo_window”: 局部变量已初始化但不引用
+D:\Sources\C++\FlodingMenu\ImGuiFlodingMenu.cpp(94,10): warning C4189: “show_another_window”: 局部变量已初始化但不引用
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_widgets.cpp
+D:\Sources\C++\FlodingMenu\imgui\imgui_widgets.cpp(7745,32): warning C4305: “参数”: 从“double”到“float”截断
+D:\Sources\C++\FlodingMenu\imgui\imgui_widgets.cpp(7747,11): warning C4189: “gap”: 局部变量已初始化但不引用
+D:\Sources\C++\FlodingMenu\imgui\imgui_widgets.cpp(7816,32): warning C4305: “参数”: 从“double”到“float”截断
+D:\Sources\C++\FlodingMenu\imgui\imgui_widgets.cpp(7818,11): warning C4189: “gap”: 局部变量已初始化但不引用
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  MenuList.cpp
+  MenuManager.cpp
+  MenuParser.cpp
+  正在生成代码...
+  ImGuiFlodingMenu.vcxproj -> D:\Sources\C++\FlodingMenu\Debug\ImGuiFlodingMenu.exe
